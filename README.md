@@ -2,7 +2,7 @@
 Yuchen Sun, Qianqian Xu, Zitai Wang, and Qingming Huang
 _________________
 
-This repository is the official implementation of our paper "When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-$k$ Multi-Label Learning", which has been accepted by **ACM Conference on Multimedia (ACM MM), 2023**.
+This repository is the official implementation of our paper [When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-$k$ Multi-Label Learning](https://arxiv.org/pdf/2309.00007.pdf), which has been accepted by **ACM Conference on Multimedia (ACM MM), 2023**.
 
 ## Overview
 
@@ -147,7 +147,7 @@ Please kindly consider citing our paper in your publications.
 ```latex
 @article{sun2023tkmia,
   title={When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-$k$ Multi-Label Learning},
-  author={Sun, Yuchen and Xu, Qianqian and Wang, Zitai and Huang, qingming},
+  author={Yuchen Sun, Qianqian Xu, Zitai Wang, and Qingming Huang},
   journal={ACM Conference on Multimedia},
   year={2023}
 }
